@@ -1,4 +1,5 @@
-# Colorful Recipe Finder
+
+# Colorful Recipe Finder [live demo](https://ojasvi657.github.io/RecipeFinder/)
 
 A vibrant and user-friendly web application to find delicious recipes from around the world with a special focus on Indian cuisine.  
 Users can search recipes by keyword or quickly browse Indian recipes using the dedicated toggle button. Full recipe details including ingredients and instructions are displayed in a modern, accessible modal.
